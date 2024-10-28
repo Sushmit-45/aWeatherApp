@@ -23,7 +23,7 @@ git clone https://github.com/username/weather-app.git
 const apiKey = 'YOUR_API_KEY';
 ```
 - Open index.html in your browser to start the app.
-- 
+
 ## **📷 Screenshots**
 ![image](https://github.com/user-attachments/assets/c48b97a0-49d0-42db-ba1a-62d79735c111)
 

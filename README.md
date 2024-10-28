@@ -13,7 +13,7 @@ A weather forecast application that fetches data from the OpenWeatherMap API to 
 - JavaScript
 - OpenWeatherMap API
 ## **🔧 Setup**
-- Clone the repository:'
+- Clone the repository:
 ```
 git clone https://github.com/username/weather-app.git
 ```
